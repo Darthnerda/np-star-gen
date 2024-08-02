@@ -15,4 +15,4 @@ Q: Yeah, but like was there any reason it's better in Purescript?
 A: Not really. It takes my full brain power to deal with strict purity and monads. I burned two free days doing this -> There was very little bang for this buck.
 
 Q: No reason at all?
-A: Perhaps terseness and a delicious code smell, plus a few guarantees like exhaustion of edge cases and making it very difficult to produce garbage data or runtime crashes. But since this project is only doing a tiny amount of actual work, most of those guarantees are of negligible value. I could have done it in 25% of the time with 75% of the same guarantees by just doing it in Typescript.
+A: Perhaps terseness and a delicious code smell, plus a few guarantees like exhaustion of edge cases and making it very difficult to produce garbage data or runtime crashes. But since this project is only doing a tiny amount of actual work, most of those guarantees are of negligible value. I could have done it in 25% of the time with 75% of the same guarantees by just doing it in Typescript. I did it because I like SUFFERING!
